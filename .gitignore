@@ -1,0 +1,28 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+
+# Jupyter kernel gateway
+.ipynb_checkpoints/
+.jupyter/
+
+# Jupyter lab
+.ipynb_checkpoints/
+.jupyter/
+.jupyterlab/
+
+# Jupyter widgets
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+.ipynb_checkpoints/
+
+# virtual enviroment
+venv/
+.venv/
+
+# Text files
+*.doc
+*.docx
+
+# Audio files
+*.mp3
+*.wav
